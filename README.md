@@ -239,26 +239,43 @@ docs/
 
 ## 📸 Authentication & Social Login Screenshots
 
-### OAuth2 Login
+### 🔐 OAuth2 Login
 
-![OAuth2 Login](screenshots/Oauth.png)
+<p align="center">
+  <img src="screenshots/Oauth.png" alt="OAuth2 Login" width="900"/>
+</p>
 
-### Social Login
+---
 
-![Social Login](screenshots/SocialLogin.png)
+### 🌐 Social Login
 
-### Google OAuth2
+<p align="center">
+  <img src="screenshots/SocialLogin.png" alt="Social Login" width="900"/>
+</p>
 
-![Google OAuth2](screenshots/GoogleOauth.png)
+---
 
-### GitHub OAuth2
+### 🔵 Google OAuth2
 
-![GitHub OAuth2](screenshots/GithubOauth.png)
+<p align="center">
+  <img src="screenshots/Googleoauth.png" alt="Google OAuth2 Login" width="900"/>
+</p>
 
-### Facebook OAuth2
+---
 
-![Facebook OAuth2](screenshots/FacebookOauth.png)
+### 🐙 GitHub OAuth2
 
+<p align="center">
+  <img src="screenshots/GithubOauth.png" alt="GitHub OAuth2 Login" width="900"/>
+</p>
+
+---
+
+### 🔷 Facebook OAuth2
+
+<p align="center">
+  <img src="screenshots/FacebookOauth.png" alt="Facebook OAuth2 Login" width="900"/>
+</p>
 ---
 
 ## 🧰 Tech Stack
