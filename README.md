@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>A practical, end-to-end Spring Security project covering authentication, authorization, JWT, refresh tokens, RBAC, method security, OAuth2 and social login.</b>
+  <b>A practical, end-to-end Spring Security project covering authentication, authorization, JWT, refresh tokens, RBAC, method security, OAuth2, social login, CORS and CSRF.</b>
 </p>
 
 ---
@@ -19,13 +19,9 @@
 
 This repository is a **hands-on Spring Security learning and implementation project** built with Spring Boot.
 
-Instead of covering only theory, the project implements the complete authentication and authorization flow step by step — from basic Spring Security concepts to production-style JWT authentication and OAuth2 social login.
+The project covers Spring Security from fundamentals to advanced security concepts, including authentication, authorization, database authentication, JWT, refresh tokens, role-based access control, method security, OAuth2 social login, CORS and CSRF.
 
-### 🔥 Social Login Providers
-
-- Google
-- GitHub
-- Facebook
+It also contains structured documentation, practical implementations, assignments, interview notes and authentication screenshots.
 
 ---
 
@@ -72,13 +68,46 @@ Instead of covering only theory, the project implements the complete authenticat
 
 ### 🌐 OAuth2 & Social Login
 
-- OAuth2 login
+- OAuth2 Login
 - Google OAuth2
 - GitHub OAuth2
 - Facebook Login
 - OAuth2 callback flow
 - Social user authentication
-- Integration with application authentication flow
+- Social login integration
+
+### 🌍 CORS
+
+- Cross-Origin Resource Sharing
+- Same-Origin vs Cross-Origin
+- `CorsConfiguration`
+- Allowed Origins
+- Allowed Methods
+- Allowed Headers
+- React → Spring Boot CORS
+- Preflight `OPTIONS` requests
+- JWT Authorization header with CORS
+- CORS debugging
+- CORS vs Authentication
+- CORS vs Authorization
+- CORS vs CSRF
+
+### 🛡️ CSRF
+
+- Cross-Site Request Forgery
+- CSRF attack flow
+- CSRF tokens
+- Cookie-based authentication
+- Session-based authentication
+- Spring Security CSRF protection
+- `CookieCsrfTokenRepository`
+- JWT + CSRF considerations
+- Stateless JWT APIs
+- `csrf.disable()`
+- When CSRF should remain enabled
+- CSRF vs CORS
+- CSRF vs XSS
+- CSRF debugging
 
 ---
 
