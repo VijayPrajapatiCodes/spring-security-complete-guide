@@ -240,31 +240,31 @@ docs/
 
 ### 🔐 OAuth2 Login
 
-![OAuth2 Login](./screenshots/Oauth.png)
+![OAuth2 Login](./screenshorts/Oauth.png)
 
 ---
 
 ### 🌐 Social Login
 
-![Social Login](./screenshots/SocialLogin.png)
+![Social Login](./screenshorts/SocialLogin.png)
 
 ---
 
 ### 🔵 Google OAuth2
 
-![Google OAuth2 Login](./screenshots/Googleoauth.png)
+![Google OAuth2 Login](./screenshorts/Googleoauth.png)
 
 ---
 
 ### 🐙 GitHub OAuth2
 
-![GitHub OAuth2 Login](./screenshots/GithubOauth.png)
+![GitHub OAuth2 Login](./screenshorts/GithubOauth.png)
 
 ---
 
 ### 🔷 Facebook OAuth2
 
-![Facebook OAuth2 Login](./screenshots/FacebookOauth.png)
+![Facebook OAuth2 Login](./screenshorts/FacebookOauth.png)
 ## 🧰 Tech Stack
 
 | Technology | Usage |
