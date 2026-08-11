@@ -236,29 +236,35 @@ docs/
 ```
 
 ---
-
 ## 📸 Authentication & Social Login Screenshots
 
 ### 🔐 OAuth2 Login
 
 ![OAuth2 Login](./screenshots/Oauth.png)
 
+---
+
 ### 🌐 Social Login
 
 ![Social Login](./screenshots/SocialLogin.png)
+
+---
 
 ### 🔵 Google OAuth2
 
 ![Google OAuth2 Login](./screenshots/Googleoauth.png)
 
+---
+
 ### 🐙 GitHub OAuth2
 
 ![GitHub OAuth2 Login](./screenshots/GithubOauth.png)
 
+---
+
 ### 🔷 Facebook OAuth2
 
 ![Facebook OAuth2 Login](./screenshots/FacebookOauth.png)
-
 ## 🧰 Tech Stack
 
 | Technology | Usage |
